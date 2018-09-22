@@ -1,3 +1,10 @@
+/* Points to remember - 
+1. The code below uses hashing to solve the problem 
+*/
+
+
+
+
 struct node* findIntersection(struct node* head1, struct node* head2)
 {
     // code here
