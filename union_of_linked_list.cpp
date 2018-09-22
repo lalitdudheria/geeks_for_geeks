@@ -1,3 +1,11 @@
+/* steps - 
+1. traverse both the list and all elements to a set. 
+2. transfer all the elemnets from a set to vector and then sort the vector. 
+3. put the elements in a linked list. 
+*/
+
+
+
 struct node* makeUnion(struct node* head1, struct node* head2)
 {
     // code here
